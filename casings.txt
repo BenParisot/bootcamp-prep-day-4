@@ -1,0 +1,12 @@
+camelCase // Javascript
+multipleHumpCase //Javascript
+
+TitleCase //C#
+PascalCase //
+
+kebob-case //file names
+snake_case  //sql
+
+LICENSE
+README
+KEYNAMES, ETC
