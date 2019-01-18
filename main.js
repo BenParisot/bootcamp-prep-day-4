@@ -10,10 +10,10 @@ function greet() {
     //make the greeting 
     var greeting = 'Why hello there ' + fullName + '!';
     //display the greeting
+    var greeter = document.getElementById('greeting');
+    console.log(greeter);
+    greeter.textContent = greeting; //this is taking the content of that p element and replacing it with the new variable value
 
-
-    console.log(greeting);
-    //remove the prompt
 
 }
 
